@@ -1,0 +1,54 @@
+/* my name font */
+h1 {
+    margin: 0%;
+    padding: 14px 16px;
+    text-align: center;
+    text-shadow: 5ch;
+    font-family: cursive;
+    font-size: xx-large;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(255, 0, 170);
+    color: rgb(59, 0, 22);
+    
+}
+
+body {
+    background: radial-gradient( rgb(255, 73, 170), plum, white)
+}
+
+
+  /* script */
+  script {
+    font-size: xx-large;
+    font-family: fantasy;
+    color: hotpink;
+    
+
+}
+
+/* button */
+button {
+        color: lightpink;
+        background-color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bolder;
+        tab-size: 20ch;
+        margin-left: 60ch;
+        
+        }
+    
+    
+        img[src="Photos.png/homebody.png"] {
+            width: 40%;
+            height: 50;
+        }
+        
+        img[src="Photos.png/me.png"]  {
+            width: 25%;
+            height: 25%;
+        }
+        
+        img[src="Photos.png/IMG_6897.JPG"] {
+            width: 25%;
+            height: 25%;
+        }
